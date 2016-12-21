@@ -1,2 +1,0 @@
-all:*
-	lua if.lua
